@@ -44,3 +44,7 @@ Solicitações para o Refinamento
 
 ## Modelo EER - Refinado
 
+Modelo de EER refinado criado de acordo com as soliitações.
+
+![E-commerce - Modelo Refinado](https://github.com/user-attachments/assets/89e0b39e-e73a-465c-8f1e-6ad3d884c3bc)
+
