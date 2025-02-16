@@ -23,7 +23,24 @@ Abaixo a criação do Banco de Dados de acordo com os relacionamentos, os atribu
 
 ## Refinamento do Modelo.
 
-Após a criação do Banco de Dados foi solicitado o refinamento do modelo Entidade - Relacionamento e também da criação de um novo Banco de Dados com novas relações que pudessem aparecer.
+Solicitações para o Refinamento
+
+1 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+
+2 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+
+3 - Entrega – Possui status e código de rastreio;
+
+4 - Algumas das perguntas que podes fazer para embasar as queries SQL:
+
+4.1 - Quantos pedidos foram feitos por cada cliente?
+
+4.2 - Algum vendedor também é fornecedor?
+
+4.3 - Relação de produtos fornecedores e estoques;
+
+4.4 - Relação de nomes dos fornecedores e nomes dos produtos;
+
 
 ## Modelo EER - Refinado
 
