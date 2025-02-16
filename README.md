@@ -21,5 +21,9 @@ Abaixo a criação do Banco de Dados de acordo com os relacionamentos, os atribu
 
 [01 - Código geral SQL - Rev.04.sql](./01%20-%20Código%20geral%20SQL%20-%20Rev.04.sql)
 
+## Refinamento do Modelo.
 
+Após a criação do Banco de Dados foi solicitado o refinamento do modelo Entidade - Relacionamento e também da criação de um novo Banco de Dados com novas relações que pudessem aparecer.
+
+## Modelo EER - Refinado
 
