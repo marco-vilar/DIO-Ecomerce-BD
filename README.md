@@ -19,12 +19,13 @@ A partir do modelo de Entidade - Relacionamento criado foi mais simples a criaç
 Abaixo a criação do Banco de Dados de acordo com os relacionamentos, os atributos, as constraints e as Primary Key e Foreign Key.
 
 
-[01 - Código geral SQL - Rev.04.sql](./01%20-%20Código%20geral%20SQL%20-%20Rev.04.sql)
+- [01 - Código Criação Banco de Dados](documentos/banco_de_dados/01_Codigo_Criacao_BancoDeDados_Rev_04.txt)
 
 ## Dados de Exemplo.
 
 Dados inseridos de exemplo para o modelo de Banco de Dados.
-[Dados de exemplo](dados_exemplo/Dados%20de%20exemplo.extensão)
+
+- [02 - Dados Exemplo](documentos/banco_de_dados/02_Dados_Exemplo_rev_00.txt)
 
 
 ## Refinamento do Modelo.
@@ -58,6 +59,14 @@ Modelo de EER refinado criado de acordo com as solicitações.
 
 Abaixo está o código de criação do projeto em SQL
 
-[01 - Refinamento - Código geral SQL - Rev.01.sql](caminho/para/o/arquivo/01%20-%20Refinamento%20-%20Código%20geral%20SQL%20-%20Rev.01.sql)
+
+- [03 - Refinamento Código Criação Banco de Dados](documentos/banco_de_dados/03_Refinamento_Codigo_Criacao_BancoDeDados_Rev_02.txt)
+
+## Dados de Exemplo - Refinado
+
+Inserção de Dados no modelo refinado conforme código abaixo.
+
+- [04 - Refinamento Inserção de Dados](documentos/banco_de_dados/04_Refinamento_Insercao_Dados.txt)
+
 
 
