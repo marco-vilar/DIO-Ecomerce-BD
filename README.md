@@ -44,7 +44,11 @@ Solicitações para o Refinamento
 
 ## Modelo EER - Refinado
 
-Modelo de EER refinado criado de acordo com as soliitações.
+Modelo de EER refinado criado de acordo com as solicitações.
 
-![E-commerce - Modelo Refinado](https://github.com/user-attachments/assets/89e0b39e-e73a-465c-8f1e-6ad3d884c3bc)
+![E-commerce - Modelo Refinado](https://github.com/user-attachments/assets/c614627e-c843-4883-b3b7-c87fde8b13c4)
+
+## Código em SQL do Banco de Dados - Refinado
+
+Abaixo está o código de criação do projeto em SQL
 
