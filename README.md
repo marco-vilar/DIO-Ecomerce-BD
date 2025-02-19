@@ -75,6 +75,9 @@ Inserção de Dados no modelo refinado conforme código abaixo.
 
 Comando em SQL
 
+- [5 - Query 1](documentos/banco_de_dados/5_Query_1_Rev.00.txt)
+
+
 
 Resultados
 
@@ -83,13 +86,21 @@ Resultados
 
 ## 2 - Algum vendedor também é fornecedor?
 
+Código SQL
+
+- [6 - Query 2](documentos/banco_de_dados/6_Query_2_Rev.00.txt)
+
 Resultados
+
 ![image](https://github.com/user-attachments/assets/510c3992-33be-4173-a2c4-66c683e0b7a5)
 
 Os dados quando foram inseridos para testes acabou gerendo algumas inconsistências, por issohá algumas falahas nas informações
     
 ## 3 - Relação de produtos fornecedores e estoques;
 
+Código SQL
+
+- [7 - Query 3](documentos/banco_de_dados/7_Query_3_Rev.00.txt)
 
 Resultados
 
@@ -98,6 +109,10 @@ Resultados
 Os dados quando foram inseridos para testes acabou gerendo algumas inconsistências, por issohá algumas falahas nas informações
 
 ## 4 - Relação de nomes dos fornecedores e nomes dos produtos;
+
+Código SQL
+
+- [8 - Query 4](documentos/banco_de_dados/8_Query_4_Rev.00.txt)
 
 Resultados
 
