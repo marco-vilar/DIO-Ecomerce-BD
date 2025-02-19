@@ -1,0 +1,10 @@
+use ecommerce;
+
+SELECT 
+    Vendedor.Razao_Social AS Vendedor,
+    Fornecedor.Razao_Social AS Fornecedor
+FROM 
+    Vendedor,
+    Fornecedor
+WHERE 
+    Vendedor.CNPJ = Fornecedor.CNPJ;

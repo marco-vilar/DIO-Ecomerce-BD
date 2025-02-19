@@ -1,0 +1,17 @@
+use ecommerce;
+
+SELECT 
+    Produto.Descrição AS Produto,
+    (SELECT Fornecedor.Razao_Social 
+     FROM Fornecedor 
+     JOIN Fornecedor_Produto ON Fornecedor.id_Fornecedor = Fornecedor_Produto.id_Fornecedor_Produto_Fornecedor
+     WHERE Fornecedor_Produto.id_Fornecedor_Produto_Produto = Produto.id_Produto
+     ) AS Fornecedor,
+    
+    (SELECT Estoque.quantidade 
+     FROM Estoque 
+     JOIN Estoque_Produto ON Estoque.id_Estoque = Estoque_Produto.id_Estoque_Produto_Estoque
+     WHERE Estoque_Produto.id_Estoque_Produto_Produto = Produto.id_Produto
+    ) AS Quantidade_Estoque
+FROM 
+    Produto;

@@ -1,0 +1,12 @@
+use ecommerce;
+
+SELECT 
+    Cliente.id_Cliente,
+    CONCAT(Cliente.Primeiro_Nome, ' ',Cliente.Nome_Meio,' ', Cliente.Sobrenome) AS Nome_Completo,
+    COUNT(Pedido.id_Pedido) AS Total_Pedidos
+FROM 
+    Cliente
+LEFT JOIN 
+    Pedido ON Cliente.id_Cliente = Pedido.id_Pedido_Cliente
+GROUP BY 
+    Cliente.id_Cliente;
