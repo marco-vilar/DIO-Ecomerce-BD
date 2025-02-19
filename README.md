@@ -69,4 +69,38 @@ Inserção de Dados no modelo refinado conforme código abaixo.
 - [04 - Refinamento Inserção de Dados](documentos/banco_de_dados/04_Refinamento_Insercao_Dados.txt)
 
 
+# Respostas das Queries
 
+## 1 -  Quantos pedidos foram feitos por cada cliente?
+
+Comando em SQL
+
+
+Resultados
+
+![image](https://github.com/user-attachments/assets/e238a294-2909-4975-8576-4e524ee74f99)
+    
+
+## 2 - Algum vendedor também é fornecedor?
+
+Resultados
+![image](https://github.com/user-attachments/assets/510c3992-33be-4173-a2c4-66c683e0b7a5)
+
+Os dados quando foram inseridos para testes acabou gerendo algumas inconsistências, por issohá algumas falahas nas informações
+    
+## 3 - Relação de produtos fornecedores e estoques;
+
+
+Resultados
+
+![image](https://github.com/user-attachments/assets/da63fbfb-b6ff-496f-864e-e62644e755d5)
+
+Os dados quando foram inseridos para testes acabou gerendo algumas inconsistências, por issohá algumas falahas nas informações
+
+## 4 - Relação de nomes dos fornecedores e nomes dos produtos;
+
+Resultados
+
+![image](https://github.com/user-attachments/assets/456776eb-1e1a-419b-b066-1a5ea7bfdfe3)
+
+Os dados quando foram inseridos para testes acabou gerendo algumas inconsistências, por issohá algumas falahas nas informações
